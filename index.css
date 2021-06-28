@@ -68,6 +68,8 @@ body {
 .span {
   color: red;
 }
+
+
 .nav {
   display: flex;
   justify-content: space-evenly;
@@ -200,3 +202,21 @@ p:nth-child(3) {
     left: 0%;
   }
 }
+#trailer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  position: relative;
+  top: 50%;
+}
+/* #trailer p {
+  font-size: 18px;
+  color: #fff;
+  text-align: center;
+  display: block;
+} */
+/* iframe {
+  width: 100% 0;
+  height: auto;
+} */
