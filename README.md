@@ -1,8 +1,8 @@
-# A-Quite-Place
+# A-Quite-Place - HorrorDome landing page
 Landing page for horror movie. I want to modify it to a movie review app or a horror movie search app.
 
-This took time and planning to create a landing page as this one. I want =ed it to give me a feel of watching a trailer, but purely coded with CSS, no Javascript.
-Added all the animations and timed them well. It came out great, just now need to make it more than a landing page with design but to add functionality with JS.
+It took time and planning to create a landing page such as this one. I wanted it to give me a feel of watching a trailer, but purely coded with CSS, no JavaScript or video editing.
+Added all the animations and timed them well. It came out great, just now need to make it more than a landing page with design but to add functionality with JS and an API to display interesting data.
 
 <h2>Current Challenge</h2>
 <ul>
@@ -12,7 +12,7 @@ Added all the animations and timed them well. It came out great, just now need t
 
 <h2>Colour Scheme</h2>
 <ul>
-  <li>rgb(255, 255, 255</li>
+  <li>rgb(255, 255, 255)</li>
   <li>rgb(255, 0, 0)</li>
 </ul>
 
